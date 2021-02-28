@@ -1,0 +1,71 @@
+/* author: Yanlin Chen */
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/751438.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  width: 7%;
+  height: auto;
+  margin-left: 10%;
+  border-radius: 2rem;
+  opacity: 0.7;
+}
+
+h1 {
+  color: black;
+  margin-left: 10%;
+  font-style: italic;
+}
+
+p {
+  color: black;
+  margin-left: 5%;
+  font-style: italic;
+}
+
+#id {
+  background-color: #f3f3f3;
+  margin-left: 10%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+#history {
+  background-color: #f3f3f3;
+  margin-left: 10%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+#offer {
+  background-color: #f3f3f3;
+  margin-left: 10%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+#points {
+  background-color: #f3f3f3;
+  margin-left: 10%;
+  padding-top: 5px;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+#blank {
+  height: 3%;
+  background-color: rgb(161, 186, 201);
+  margin-left: 10%;
+  font-style: italic;
+}
